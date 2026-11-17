@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027%2C50:203a43%2C100:2c5364&text=noahhhx&fontColor=ffffff&fontSize=60&fontAlignY=40&section=header">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:a8edea%2C100:fed6e3&text=noahhhx&fontColor=24292f&fontSize=60&fontAlignY=40&section=header">
-  <img alt="noahhhx" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f2027%2C50:203a43%2C100:2c5364&text=noahhhx&fontColor=ffffff&fontSize=60&fontAlignY=40&section=header" width="100%">
-</picture>
+<p align="center"><img src="banner.svg" alt="noahhhx" width="100%"></p>
 
 <p align="center">
   <picture>
