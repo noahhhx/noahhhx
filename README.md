@@ -1,13 +1,5 @@
 <p align="center"><img src="banner.svg" alt="noahhhx" width="100%"></p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust%2Cnix%2Cjava%2Cspring%2Cdocker%2Clinux%2Cbash&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust%2Cnix%2Cjava%2Cspring%2Cdocker%2Clinux%2Cbash&theme=light">
-    <img alt="Rust, Nix, Java, Spring, Docker, Linux, Bash" src="https://skillicons.dev/icons?i=rust%2Cnix%2Cjava%2Cspring%2Cdocker%2Clinux%2Cbash&theme=dark">
-  </picture>
-</p>
-
 ## Setup
 
 - [nixos](https://github.com/noahhhx/nixos): my NixOS config, a dendritic flake
