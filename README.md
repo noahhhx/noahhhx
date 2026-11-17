@@ -1,4 +1,4 @@
-<p align="center"><img src="banner.svg" alt="noahhhx" width="100%"></p>
+<p align="center"><img src="header.svg" alt="noahhhx" width="100%"></p>
 
 ## Setup
 
